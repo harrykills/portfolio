@@ -5,15 +5,15 @@ import { meshBounds, OrbitControls, Preload, useGLTF } from '@react-three/drei';
 import CanvasLoader from '../Loader'
 import { degToRad } from 'three/src/math/MathUtils.js';
 
-const Computers = ( isMobile ) => {
+const Computers = ( {isMobile} ) => {
   const computer = useGLTF('./desktop_pc/scene.gltf')
   return (
     <mesh>
       <hemisphereLight intensity={0.15} groundColor="black" />
-      <pointLight intensity={1} />
+      <pointLight intensity={2} />
       <spotLight 
-      position={[-1,40,-1]}
-        angle={degToRad(10)}
+      position={[-1,30,-1]}
+        angle={degToRad(15)}
         penumbra={1}
         intensity={10000}
         castShadow
