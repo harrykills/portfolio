@@ -44,7 +44,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-5 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Maxime similique facere, corrupti aspernatur tempora rerum, dicta blanditiis distinctio eius laudantium nemo pariatur! Dolorem, id. Error aspernatur libero cupiditate quas illum repellendus. Magnam soluta impedit ullam ad dolorem suscipit asperiores vel voluptatibus, blanditiis nihil eius, fuga eligendi quas iusto eveniet perspiciatis!
+        As an aspiring front-end web developer, I am dedicated to creating visually appealing and highly functional websites. My journey in web development has equipped me with skills in HTML, CSS, JavaScript, and React. I am passionate about learning new technologies and continuously improving my design and coding abilities to deliver exceptional user experiences.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>

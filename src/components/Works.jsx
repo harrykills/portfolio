@@ -67,7 +67,7 @@ const Works = () => {
           variants={fadeIn("", "", 0.1, 1)}
           className="mt-3 text-secondary text-[17px] max-w-3xl leading-[30px]"
         >
-        Lorm ipsum dolor, sit amet consectetur adipisicing elit. Corporis explicabo veniam vitae asperiores natus unde magni, debitis, ipsum quibusdam totam fugit dicta. Impedit, aut explicabo perferendis reiciendis dolores itaque laudantium, nulla reprehenderit iure, suscipit molestiae amet corporis quibusdam labore a atque! Autem nihil quae adipisci, odio hic nisi ad laudantium!
+        The projects below highlight my skills and experience through practical examples of my work. Each project includes a brief description, along with links to code repositories and live demos. They demonstrate my ability to tackle complex problems, utilize a range of technologies such as HTML, CSS, JavaScript, and React, and efficiently manage projects.
         </motion.p>
       </div>
 
